@@ -1,0 +1,124 @@
+Feature,Importance
+num__Mental_Stress_Score,0.18834063
+cat__Have you ever had suicidal thoughts ?_No,0.1351706
+num__Sentiment_Score_From_Text,0.084752
+num__Academic_Burden_Index,0.07758107
+txt__day without,0.05607899
+num__Age,0.05389306
+num__Study Satisfaction,0.049392276
+cat__Sleep Duration_5-6 hours,0.048227657
+num__Sentiment_Score,0.041790918
+cat__Dietary Habits_Unhealthy,0.03989074
+num__Academic Pressure,0.039654747
+cat__Dietary Habits_Healthy,0.028276226
+num__Sleep_Duration_Numeric,0.022969527
+cat__Sleep Duration_7-8 hours,0.019562073
+cat__Gender_Female,0.01948363
+txt__my,0.015763206
+num__Financial Stress,0.0154458275
+num__Study Hours,0.015152135
+txt__had,0.010954545
+txt__studying,0.009290207
+txt__day,0.008375407
+txt__feel,0.008246799
+cat__Family History of Mental Illness_No,0.007238528
+txt__emotionally,0.0024487677
+cat__Dietary Habits_Moderate,0.0020204645
+cat__Sleep Duration_More than 8 hours,0.0
+cat__Family History of Mental Illness_Yes,0.0
+txt__anxious,0.0
+txt__academics,0.0
+txt__academic pressure,0.0
+txt__academic,0.0
+txt__calm less,0.0
+txt__attended,0.0
+txt__attended classes,0.0
+txt__assignments,0.0
+txt__completed,0.0
+txt__classes completed,0.0
+txt__classes,0.0
+txt__completed several,0.0
+txt__difficulty,0.0
+txt__difficulty sleeping,0.0
+txt__emotional,0.0
+txt__calm,0.0
+txt__emotional state,0.0
+txt__emotionally stable,0.0
+txt__every day,0.0
+txt__every,0.0
+txt__exhausted,0.0
+txt__exhausted overwhelmed,0.0
+txt__family,0.0
+txt__feel anxious,0.0
+txt__feel calm,0.0
+txt__feel exhausted,0.0
+txt__feel hopeless,0.0
+txt__feel supported,0.0
+txt__feels,0.0
+cat__Sleep Duration_Less than 5 hours,0.0
+cat__Have you ever had suicidal thoughts ?_Yes,0.0
+cat__Gender_Male,0.0
+txt__felt emotionally,0.0
+txt__felt,0.0
+txt__feels neutral,0.0
+txt__focus,0.0
+txt__focus studying,0.0
+txt__friends,0.0
+txt__friends family,0.0
+txt__financial,0.0
+txt__have,0.0
+txt__have difficulty,0.0
+txt__home,0.0
+txt__hopeless,0.0
+txt__hopeless struggle,0.0
+txt__issues,0.0
+txt__less,0.0
+txt__financial problems,0.0
+txt__less stressed,0.0
+txt__major,0.0
+txt__make,0.0
+txt__major issues,0.0
+txt__make me,0.0
+txt__me,0.0
+txt__me stressed,0.0
+txt__my emotional,0.0
+txt__my friends,0.0
+txt__neutral,0.0
+txt__neutral today,0.0
+txt__normal,0.0
+txt__normal day,0.0
+txt__often,0.0
+txt__often feel,0.0
+txt__had normal,0.0
+txt__overwhelmed,0.0
+txt__overwhelmed academic,0.0
+txt__problems,0.0
+txt__pressure,0.0
+txt__productive,0.0
+txt__productive felt,0.0
+txt__resting,0.0
+txt__problems make,0.0
+txt__several,0.0
+txt__several assignments,0.0
+txt__sleeping,0.0
+txt__sleeping often,0.0
+txt__spent,0.0
+txt__spent time,0.0
+txt__stable,0.0
+txt__resting home,0.0
+txt__state,0.0
+txt__state feels,0.0
+txt__stressed academics,0.0
+txt__stressed,0.0
+txt__stressed every,0.0
+txt__struggle,0.0
+txt__struggle focus,0.0
+txt__studying resting,0.0
+txt__supported,0.0
+txt__supported my,0.0
+txt__time,0.0
+txt__time studying,0.0
+txt__today,0.0
+txt__today productive,0.0
+txt__without,0.0
+txt__without major,0.0
